@@ -1,0 +1,4 @@
+{
+  "dependencies": ["cyclario-infra"],
+  "devDependencies": ["cyclario-api"]
+}
